@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR+Lijeva:wght@100..400&display=swap');
+
+.playwrite-hr-lijeva{
+    font-family: "Playwrite HR Lijeva", cursive;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
+  .exo{
+    font-family: "Exo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+
+body{
+    height: 100K;
+    background-color: rgb(122, 210, 45);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h1{
+    color: darkorchid;
+    margin-top: 35px;
+    text-align: center;
+}
+
+.event-logo{
+    background-image: url('Pokémon-GO-Regional-Championships-Orlando-Tournament.webp');
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fiery-team{
+    background-image: url('Potential-wallpaper.webp');
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.event-logo2{
+    background-image: url('Indianapolis-Pokemon-Go-Regional-Championships-2024.png');
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.og-starters{
+    background-image: url('generation-1-starters-together.png');
+    height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-section{
+    background: radial-gradient(circle, silver,black, gold);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+}
